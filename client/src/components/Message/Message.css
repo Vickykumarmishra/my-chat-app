@@ -1,0 +1,19 @@
+.messageBox{
+    background-color: gainsboro;
+    width:50%;
+    margin:0.5rem;
+    padding:0.5rem;
+    border-radius: 0.5rem;
+}
+
+.right{
+float:right;
+background-color: crimson;
+
+}
+
+.left{
+    float:left;
+    background-color: lightgreen;
+    
+    }
